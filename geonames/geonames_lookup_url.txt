@@ -1,0 +1,7 @@
+
+Bislet
+http://194.19.99.197:8092?latitude=59.927&longitude=10.733&username=demo
+
+Rosenholm
+http://194.19.99.197:8092?latitude=59.822&longitude=10.787&username=demo
+

@@ -1,0 +1,1 @@
+{ "latitude" : 59.927, "longitude" : 10.733, "username" : "demo"}
