@@ -1,7 +1,7 @@
 <html><body>
 <h3>DataPower Geonames.org reverse geocoding</h3>
 
-This is a small example of using <a target="_blank" href="http://www-03.ibm.com/software/products/en/datapower-gateway">IBM DataPower Gateway</a> GatewayScript (JavaScript) to perform place lookup from geopisition
+This is a small example of using <a target="_blank" href="http://www-03.ibm.com/software/products/en/datapower-gateway">IBM DataPower Gateway</a> GatewayScript (JavaScript) to perform place lookup from geoposition
 (latitude / longitude in decimal degrees), using <a target="_blank" href="http://geonames.org">Geonames.org</a> JSON API.
 
 
